@@ -4,8 +4,20 @@
   box-sizing: border-box;
 }
 
-nav{
-  /* display: flex;
-  justify-content: center; */
+.navBar{
+  margin-top: 1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  border: 1px solid;
+  height: 100px;
 }
 
+
+main{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
