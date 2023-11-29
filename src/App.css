@@ -4,7 +4,7 @@
   box-sizing: border-box;
 }
 
-.navBar{
+/* .navBar{
   margin-top: 1px;
   display: flex;
   flex-direction: row;
@@ -12,12 +12,12 @@
   align-items: center;
   border: 1px solid;
   height: 100px;
-}
+} */
 
 
-main{
+/* main{
   display: flex;
   justify-content: center;
   align-items: center;
   height: 100vh;
-}
+} */

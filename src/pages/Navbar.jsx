@@ -5,7 +5,7 @@ import About from "./About"
 const Navbar = ()=>{
     return(
         <>
-         <div className='navBar'>
+         <div className='flex justify-around items-center h-24 outline m-1'>
 
             <Link to="/">Home</Link>
 
